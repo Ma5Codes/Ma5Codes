@@ -142,7 +142,7 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 <!--x axis divider-->
 
-![](/assets/images/horizontal-divider-gradient.gif)
+<!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
 
 <!-- Support me -->
 <!-- <h3 align="center">☕Support Me☕</h3> -->
@@ -155,13 +155,13 @@ Other                    0 secs              ░░░░░░░░░░░�
 
 <!-- ![](/assets/images/horizontal-divider-gradient.gif) -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma5Codes/ma5Codes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ma5Codes/ma5Codes/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ma5Codes/ma5Codes/output/github-snake.svg" />
 </picture>
 
-<!--x axis divider-->
+x axis divider -->
 
 ![](/assets/images/horizontal-divider-gradient.gif)
 
