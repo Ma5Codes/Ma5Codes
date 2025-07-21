@@ -91,13 +91,40 @@ Other                    0 secs              ░░░░░░░░░░░�
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+    <summary><h3 style="display: inline-block">🧑‍💻 Tech Stack</h3></summary>
   </ul>
 </div>
-<!--tech stack icons by skillicons.dev-->
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
+
+<!--x axis divider-->
+
+![](/assets/images/horizontal-divider-gradient.gif)
+
+# 📈 GitHub Analytics:
+
 <p align="center">
-<a href="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6">
-<img src="https://v5-portfolio.derikn.com/api/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<a href="https://github.com/ma5Codes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ma5Codes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ma5Codes&layout=compact&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ma5Codes&theme=vue-dark&hide_border=true"/>
 </a>
 </p>
 
