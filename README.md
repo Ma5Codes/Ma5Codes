@@ -71,11 +71,15 @@ Hi, my name is Habu Matano, I'm a FullStack Developer from Nairobi, Kenya.
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               35 mins             ████████░░░░░░░░░░░░░░░░░   32.29 % 
+JavaScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Bash                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 ```
 
 
- Last Updated on 10-12-2025 21:21:31 UTC
+ Last Updated on 11-12-2025 21:21:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
