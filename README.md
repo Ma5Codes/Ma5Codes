@@ -55,27 +55,8 @@ Hi, my name is Habu Matano, I'm a FullStack Developer from Nairobi, Kenya.
 ![](/assets/images/horizontal-divider-gradient.gif)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                2206 commits        ███████████████████████░░   90.04 % 
-🌆 Daytime                69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-🌃 Evening                113 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 31-01-2026 21:21:12 UTC
+ Last Updated on 01-02-2026 21:22:01 UTC
 <!--END_SECTION:waka-->
 
 </div>
